@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Karan pratap singh</h1>
+<h3 align="center">BCA student @Uttranchal University,Dehradun</h3>
 
-<!--
-**partapkaran071-cyber/partapkaran071-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=partapkaran071-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="partapkaran071-cyber" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=partapkaran071-cyber" alt="partapkaran071-cyber" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Java programming**
+
+- 🌱 I’m currently learning **Java ,frontend(HTML/CSS and cloud gaming tech**
+
+- 👯 I’m looking to collaborate on **open source beginner friendly coding repos**
+
+- 🤝 I’m looking for help with **debugging and improving my coding logics**
+
+- 👨‍💻 All of my projects are available at [https://github.com/partapkaran071-cyber](https://github.com/partapkaran071-cyber)
+
+- 📝 I regularly write articles on [coding errors &fixes , creative storytelling and gaming experiences](coding errors &fixes , creative storytelling and gaming experiences)
+
+- 💬 Ask me about **C , JAva basics , Canva editing , Advanced AI , and gaming mods**
+
+- 📫 How to reach me **partapkaran071@gmail.com**
+
+- 📄 Know about my experiences [https://ibb.co/sJvHp7YJ](https://ibb.co/sJvHp7YJ)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karan partap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan partap" height="30" width="40" /></a>
+<a href="https://instagram.com/karannpratapsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karannpratapsingh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=partapkaran071-cyber&show_icons=true&locale=en&layout=compact" alt="partapkaran071-cyber" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=partapkaran071-cyber&show_icons=true&locale=en" alt="partapkaran071-cyber" /></p>
