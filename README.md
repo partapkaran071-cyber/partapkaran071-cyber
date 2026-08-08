@@ -9,7 +9,7 @@
   
 - 🤝 I’m looking for help with **debugging and improving my coding logics**
   
-- 💬 Ask me about **C , JAva basics , Canva editing , Advanced AI , and gaming mods**
+- 💬 Ask me about **C , JAva basics , Canva editing , Advanced AI tools, and gaming mods**
   
 - 📫 How to reach me **partapkaran071@gmail.com**
 
