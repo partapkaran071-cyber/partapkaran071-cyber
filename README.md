@@ -85,7 +85,7 @@
 <img src="https://raw.githubusercontent.com/partapkaran071-cyber/partapkaran071-cyber/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
-<p align="center"><i>⚙️ This animated graph needs a one-time setup — see <code>SNAKE-SETUP.md</code> in this download for the 2-minute steps.</i></p>
+<p align="center"><i>⚙️ 
 
 <h3 align="center">📈 Weekly Activity Graph</h3>
 
