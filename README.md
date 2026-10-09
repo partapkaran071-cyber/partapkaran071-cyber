@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Karan%20Pratap%20Singh&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Java%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=20" alt="header banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Currently+working+on+Java+programming+%E2%98%95;Learning+Frontend+(HTML%2FCSS)+%2B+Cloud+Gaming+Tech;Open+to+Collaborate+on+Beginner-Friendly+Repos+%F0%9F%A4%9D;Ask+me+about+C%2C+Java%2C+Canva+%26+AI+Tools+%F0%9F%92%AC" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Currently+working+on+Python+programming+%E2%98%95;Learning+Operating System+%2B+Cyber+Security+Tech;Open+to+Collaborate+on+Intermediate-Level+Repos+%F0%9F%A4%9D;Ask+me+about+C%2C+Java%2C+python+Linux+Canva+%26+AI+Tools+%F0%9F%92%AC" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -23,10 +23,10 @@
 
 - 🎓&nbsp; BCA Student @ **Uttranchal University, Dehradun**
 - 💻&nbsp; Currently working on **Java programming**
-- 📚&nbsp; Currently learning **Java, Frontend (HTML/CSS), and Cloud Gaming Tech**
-- 🤝&nbsp; Looking to collaborate on **open-source, beginner-friendly coding repos**
+- 📚&nbsp; Currently learning **Python, java,Frontend (HTML/CSS), and CyberSecurity**
+- 🤝&nbsp; Looking to collaborate on **open-source, Intermediate-level coding repos**
 - 🐛&nbsp; Looking for help with **debugging and improving my coding logic**
-- 💬&nbsp; Ask me about **C, Java basics, Canva editing, Advanced AI tools, and gaming mods**
+- 💬&nbsp; Ask me about **C, Java,python,Cybersecurity,linux, Canva editing, Advanced AI tools, and gaming mods**
 - 📄&nbsp; Check out my experience **[here](https://ibb.co/sJvHp7YJ)**
 - 📫&nbsp; Reach me at **partapkaran071@gmail.com**
 
